@@ -6,7 +6,7 @@
 
 Originally from Dehradun, Uttarakhand, I’m a biotechnologist by training who found a true calling in front-end ._"where science meets creativity and code becomes a canvas."_
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:va@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
@@ -30,3 +30,11 @@ Originally from Dehradun, Uttarakhand, I’m a biotechnologist by training who f
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4B8B3B?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+
+### 📊 GitHub Stats
+
+<!-- Most Used Languages -->
+
+![Vandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandanafuloria&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vandanafuloria&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandanafuloria&layout=compact&theme=radical)
