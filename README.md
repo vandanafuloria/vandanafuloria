@@ -18,27 +18,50 @@ Originally from Dehradun, Uttarakhand, I’m a biotechnologist by training who f
 
 ## 🛠️ Technologies I'm Familiar With
 
-## 🛠️ Technologies I'm Familiar With
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
-  <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" />
-</p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+       width="42" height="42" alt="HTML5" />
 
-  <img src="https://cdn.simpleicons.org/shopify" width="45" height="45" alt="Shopify" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+       width="42" height="42" alt="CSS3" />
 
-  <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+       width="42" height="42" alt="JavaScript" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+       width="42" height="42" alt="React" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+       width="42" height="42" alt="Redux" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+       width="42" height="42" alt="Tailwind CSS" />
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+       width="42" height="42" alt="Node.js" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+       width="42" height="42" alt="Express.js" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+       width="42" height="42" alt="MongoDB" />
+
+  <!-- Tools -->
+  <img src="https://cdn.simpleicons.org/shopify"
+       width="42" height="42" alt="Shopify" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+       width="42" height="42" alt="Git" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+       width="42" height="42" alt="GitHub" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+       width="42" height="42" alt="Figma" />
+
 </p>
 
 ## Algorithmic Profiles
