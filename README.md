@@ -16,7 +16,24 @@ Originally from Dehradun, Uttarakhand, I’m a biotechnologist by training who f
 
 ## Technologies I'm Familiar With
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://skillicons.dev/icons?i=html" width="45" height="45" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://skillicons.dev/icons?i=css" width="45" height="45" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=js" width="45" height="45" /> </a> <a href="https://react.dev/"> <img src="https://skillicons.dev/icons?i=react" width="45" height="45" /> </a> <a href="https://tailwindcss.com/"> <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" /> </a> <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git" width="45" height="45" /> </a> <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=github" width="45" height="45" /> </a> <a href="https://www.figma.com/"> <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" /> </a> </p>
+## 🛠️ Technologies I'm Familiar With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+  <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=shopify" width="45" height="45" alt="Shopify" />
+  <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=markdown" width="45" height="45" alt="Markdown" />
+</p>
 
 ## Algorithmic Profiles
 
