@@ -16,15 +16,7 @@ Originally from Dehradun, Uttarakhand, I’m a biotechnologist by training who f
 
 ## Technologies I'm Familiar With
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=darkblue)](https://reactjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://skillicons.dev/icons?i=html" width="45" height="45" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://skillicons.dev/icons?i=css" width="45" height="45" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=js" width="45" height="45" /> </a> <a href="https://react.dev/"> <img src="https://skillicons.dev/icons?i=react" width="45" height="45" /> </a> <a href="https://tailwindcss.com/"> <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" /> </a> <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git" width="45" height="45" /> </a> <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=github" width="45" height="45" /> </a> <a href="https://www.figma.com/"> <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" /> </a> </p>
 
 ## Algorithmic Profiles
 
