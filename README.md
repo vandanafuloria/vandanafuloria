@@ -14,7 +14,6 @@ I have experience working directly with clients, understanding requirements, bui
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat\&logo=vercel\&logoColor=white)](https://my-portfolio-l31n.vercel.app/)
 
----
 
 ## About
 
@@ -25,7 +24,6 @@ I have experience working directly with clients, understanding requirements, bui
 * Comfortable working with APIs, Git workflows and deployment
 * Currently expanding into full-stack development
 
----
 
 ## Experience
 
@@ -42,7 +40,6 @@ I have experience working directly with clients, understanding requirements, bui
 * Deployed applications using Vercel
 * Focused on responsive design, performance and cross-browser compatibility
 
----
 
 ## Technologies
 
@@ -73,23 +70,16 @@ I have experience working directly with clients, understanding requirements, bui
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat\&logo=canva\&logoColor=white)
 
----
-
 ## Projects
 
 ### Portfolio
 
-My personal portfolio showcasing my work, skills and projects.
-
-[View Portfolio →](https://my-portfolio-l31n.vercel.app/)
-
----
+My personal portfolio showcasing my work, skills and projects. [View Portfolio →](https://my-portfolio-l31n.vercel.app/)
 
 ## Currently Exploring
 
 TypeScript · Next.js · Redux Toolkit · Node.js · Express.js · MongoDB · REST APIs
 
----
 
 ## GitHub Stats
 
@@ -97,8 +87,6 @@ TypeScript · Next.js · Redux Toolkit · Node.js · Express.js · MongoDB · RE
   <img src="https://github-readme-stats.vercel.app/api?username=vandanafuloria&show_icons=true&theme=default" height="160">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vandanafuloria&theme=default" height="160">
 </p>
-
----
 
 ## Let's Connect
 
