@@ -70,8 +70,6 @@ I have experience working directly with clients, understanding requirements, bui
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat\&logo=canva\&logoColor=white)
 
-## Projects
-
 ### Portfolio
 
 My personal portfolio showcasing my work, skills and projects. [View Portfolio →](https://my-portfolio-l31n.vercel.app/)
