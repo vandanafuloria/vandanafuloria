@@ -10,8 +10,8 @@ Originally from Dehradun, Uttarakhand, I started my journey in biotechnology and
 
 I have experience working directly with clients, understanding requirements, building interfaces, customizing Shopify stores, and delivering polished web experiences.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:va@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:vandanafuloria02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in//vandanafuloria)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat\&logo=vercel\&logoColor=white)](https://my-portfolio-l31n.vercel.app/)
 
 
