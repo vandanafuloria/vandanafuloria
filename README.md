@@ -25,6 +25,26 @@ I have experience working directly with clients, understanding requirements, bui
 * Currently expanding into full-stack development
 
 
+## Projects
+
+ 
+### [e-market](https://e-market-blush.vercel.app/)
+**Tech:** React · Tailwind · REST API
+[Live Demo](https://e-market-blush.vercel.app/) · [GitHub Repo](https://github.com/vandanafuloria/e-market)
+ 
+### [Weather Application ](https://vandanafuloria.github.io/weather-forecast/)
+**Tech:** Vanilla javascript · REST API · HTML · CSS
+[Live Demo](https://vandanafuloria.github.io/weather-forecast/) · [GitHub Repo](https://github.com/vandanafuloria/weather-forecast)
+ 
+### [Resume Builder](https://vandanafuloria.github.io/CV-builder-/)
+**Tech:** JavaScript · REST API
+[Resume Builder](https://vandanafuloria.github.io/CV-builder-/) · [GitHub Repo](https://github.com/vandanafuloria/CV-builder-)
+
+### [Memory Game](https://vandanafuloria.github.io/play-with-memory/)
+**Tech:** JavaScript · REST API
+[Live Demo](https://vandanafuloria.github.io/play-with-memory/) · [GitHub Repo](https://github.com/vandanafuloria/play-with-me)
+
+
 ## Experience
 
 ### Front-End Developer
