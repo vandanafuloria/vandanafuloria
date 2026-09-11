@@ -30,19 +30,19 @@ I have experience working directly with clients, understanding requirements, bui
  
 ### [e-market](https://e-market-blush.vercel.app/)
 **Tech:** React · Tailwind · REST API
-[Live Demo](https://e-market-blush.vercel.app/) · [GitHub Repo](https://github.com/vandanafuloria/e-market)
+[GitHub Repo](https://github.com/vandanafuloria/e-market)
  
 ### [Weather Application ](https://vandanafuloria.github.io/weather-forecast/)
 **Tech:** Vanilla javascript · REST API · HTML · CSS
-[Live Demo](https://vandanafuloria.github.io/weather-forecast/) · [GitHub Repo](https://github.com/vandanafuloria/weather-forecast)
+[GitHub Repo](https://github.com/vandanafuloria/weather-forecast)
  
 ### [Resume Builder](https://vandanafuloria.github.io/CV-builder-/)
 **Tech:** JavaScript · REST API
-[Resume Builder](https://vandanafuloria.github.io/CV-builder-/) · [GitHub Repo](https://github.com/vandanafuloria/CV-builder-)
+[GitHub Repo](https://github.com/vandanafuloria/CV-builder-)
 
 ### [Memory Game](https://vandanafuloria.github.io/play-with-memory/)
 **Tech:** JavaScript · REST API
-[Live Demo](https://vandanafuloria.github.io/play-with-memory/) · [GitHub Repo](https://github.com/vandanafuloria/play-with-me)
+[GitHub Repo](https://github.com/vandanafuloria/play-with-me)
 
 
 ## Experience
@@ -62,34 +62,41 @@ I have experience working directly with clients, understanding requirements, bui
 
 
 ## Technologies
+## Languages
 
-### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat\&logo=redux\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
+## Frontend
 
-### Backend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat\&logo=postman\&logoColor=white)
+## Backend
 
-### Platforms & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat\&logo=shopify\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat\&logo=canva\&logoColor=white)
+## Platforms & Tools
 
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+## Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
 ### Portfolio
 
 My personal portfolio showcasing my work, skills and projects. [View Portfolio →](https://my-portfolio-l31n.vercel.app/)
@@ -104,6 +111,13 @@ TypeScript · Next.js · Redux Toolkit · Node.js · Express.js · MongoDB · RE
 <p align="left">
   <img src="https://ghstats.dev/api/card?username=vandanafuloria" width="700">
 </p>
+
+## A Bit Personal
+
+- ✍️ Poetry is my way of expression
+- 🌿 Nature, fitness & building things give me dopamine
+- ✨ I enjoy learning, creating and turning ideas into something real
+- 🧠 Always curious, always learning something new
 
 ## Contact Me
 
