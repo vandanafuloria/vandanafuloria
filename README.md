@@ -19,49 +19,22 @@ Originally from Dehradun, Uttarakhand, I’m a biotechnologist by training who f
 ## 🛠️ Technologies I'm Familiar With
 
 <p align="left">
+  <span>🟧 HTML5</span>&nbsp;&nbsp;
+  <span>🟦 CSS3</span>&nbsp;&nbsp;
+  <span>🟨 JavaScript</span>&nbsp;&nbsp;
+  <span>⚛️ React</span>&nbsp;&nbsp;
+  <span>🟣 Redux</span>&nbsp;&nbsp;
+  <span>🟦 Tailwind CSS</span>
+</p>
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-       width="42" height="42" alt="HTML5" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-       width="42" height="42" alt="CSS3" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-       width="42" height="42" alt="JavaScript" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-       width="42" height="42" alt="React" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-       width="42" height="42" alt="Redux" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-       width="42" height="42" alt="Tailwind CSS" />
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-       width="42" height="42" alt="Node.js" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-       width="42" height="42" alt="Express.js" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-       width="42" height="42" alt="MongoDB" />
-
-  <!-- Tools -->
-  <img src="https://cdn.simpleicons.org/shopify"
-       width="42" height="42" alt="Shopify" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       width="42" height="42" alt="Git" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-       width="42" height="42" alt="GitHub" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-       width="42" height="42" alt="Figma" />
-
+<p align="left">
+  <span>🟢 Node.js</span>&nbsp;&nbsp;
+  <span>⚫ Express.js</span>&nbsp;&nbsp;
+  <span>🟢 MongoDB</span>&nbsp;&nbsp;
+  <span>🟩 Shopify</span>&nbsp;&nbsp;
+  <span>🟠 Git</span>&nbsp;&nbsp;
+  <span>⚫ GitHub</span>&nbsp;&nbsp;
+  <span>🟣 Figma</span>
 </p>
 
 ## Algorithmic Profiles
