@@ -83,12 +83,11 @@ TypeScript · Next.js · Redux Toolkit · Node.js · Express.js · MongoDB · RE
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vandanafuloria&show_icons=true&theme=default" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vandanafuloria&theme=default" height="160">
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=vandanafuloria" width="700">
 </p>
 
-## Let's Connect
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:va@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
