@@ -18,24 +18,20 @@ Originally from Dehradun, Uttarakhand, I’m a biotechnologist by training who f
 
 ## 🛠️ Technologies I'm Familiar With
 
-<p align="left">
-  <span>🟧 HTML5</span>&nbsp;&nbsp;
-  <span>🟦 CSS3</span>&nbsp;&nbsp;
-  <span>🟨 JavaScript</span>&nbsp;&nbsp;
-  <span>⚛️ React</span>&nbsp;&nbsp;
-  <span>🟣 Redux</span>&nbsp;&nbsp;
-  <span>🟦 Tailwind CSS</span>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-<p align="left">
-  <span>🟢 Node.js</span>&nbsp;&nbsp;
-  <span>⚫ Express.js</span>&nbsp;&nbsp;
-  <span>🟢 MongoDB</span>&nbsp;&nbsp;
-  <span>🟩 Shopify</span>&nbsp;&nbsp;
-  <span>🟠 Git</span>&nbsp;&nbsp;
-  <span>⚫ GitHub</span>&nbsp;&nbsp;
-  <span>🟣 Figma</span>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## Algorithmic Profiles
 
